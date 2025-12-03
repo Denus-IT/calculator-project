@@ -83,12 +83,12 @@ python calculator.py
 
 ## Структура проєкту
 
-calculator-project/
-├── calculator.py    
-├── history.txt      
-├── .gitignore
-├── DOCUMENTATION.md 
-└── README.md
+calculator-project/          
+├── calculator.py          
+├── history.txt             
+├── .gitignore         
+├── DOCUMENTATION.md           
+└── README.md          
 
 ## Можливі покращення (TODO)
 
