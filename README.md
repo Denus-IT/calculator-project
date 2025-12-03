@@ -49,7 +49,7 @@ python calculator.py
 Результат: 256.0                                   
 
 ## Структура проєкту
-calculator-project/
+calculator-project/ 
 ├── calculator.py  
 ├── history.txt    
 ├── .gitignore     
