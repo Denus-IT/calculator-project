@@ -6,7 +6,7 @@
 ## Опис
 Цей проєкт представляє собою простий калькулятор з текстовим інтерфейсом, який дозволяє виконувати основні математичні операції в інтерактивному режимі.
 
-Детальний опис функцій може бути наведено у файлі `DOCUMENTATION.md` (якщо є).
+Детальний опис функцій наведено у файлі [DOCUMENTATION.md](./DOCUMENTATION.md).
 
 ## Функціональність
 
@@ -47,20 +47,11 @@ git clone https://github.com/Denus-IT/calculator-project.git
 cd calculator-project
 ```
 
-3. (Опціонально) Створіть та активуйте віртуальне середовище (Windows PowerShell):
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate
-```
-
-4. Запустіть програму:
+3. Запустіть калькулятор
 
 ```powershell
 python calculator.py
 ```
-
-> Порада: на macOS/Linux замініть активацію віртуального середовища на `source .venv/bin/activate`.
 
 ## Використання
 
@@ -92,14 +83,12 @@ python calculator.py
 
 ## Структура проєкту
 
-```
 calculator-project/
 ├── calculator.py    
 ├── history.txt      
 ├── .gitignore
 ├── DOCUMENTATION.md 
 └── README.md
-```
 
 ## Можливі покращення (TODO)
 
@@ -117,5 +106,4 @@ calculator-project/
 
 ## Ліцензія
 
-Навчальний проєкт. Використовується для вивчення Git під час навчальної практики.
 Навчальний проєкт. Використовується для вивчення Git під час навчальної практики.
